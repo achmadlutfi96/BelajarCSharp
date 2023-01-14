@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab2VariabelDanTipeData", "Bab2VariabelDanTipeData\Bab2VariabelDanTipeData.csproj", "{746C5F3A-E2FD-4BDA-A35F-3C9B1B8AE3AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab3Operator", "Bab3Operator\Bab3Operator.csproj", "{8D77722B-E8C6-4807-AE77-E7386BC2FF71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{746C5F3A-E2FD-4BDA-A35F-3C9B1B8AE3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746C5F3A-E2FD-4BDA-A35F-3C9B1B8AE3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746C5F3A-E2FD-4BDA-A35F-3C9B1B8AE3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746C5F3A-E2FD-4BDA-A35F-3C9B1B8AE3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D77722B-E8C6-4807-AE77-E7386BC2FF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D77722B-E8C6-4807-AE77-E7386BC2FF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D77722B-E8C6-4807-AE77-E7386BC2FF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D77722B-E8C6-4807-AE77-E7386BC2FF71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C1DB3F1-F577-498D-A164-F2134323D06E}
+	EndGlobalSection
+EndGlobal
