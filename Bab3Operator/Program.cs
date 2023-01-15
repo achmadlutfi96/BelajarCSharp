@@ -10,6 +10,10 @@ namespace Bab3Operator
     {
         static void Main(string[] args)
         {
+            Console.Write("Masukkan nilai=");
+            Int16 number = Convert.ToInt16(Console.ReadLine());
+            string kondisi = (number > 50) ? "lulus" : "tidak lulus";
+            Console.WriteLine(kondisi);
         }
     }
 }
