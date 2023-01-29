@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab5Array", "Bab5Array\Bab5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab6KelasDanObjek", "Bab6KelasDanObjek\Bab6KelasDanObjek.csproj", "{755AF4DF-653C-4AAE-8ACB-E79D8BA00F2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab7MetodeKelasStatisDanKelasParsial", "Bab7MetodeKelasStatisDanKelasParsial\Bab7MetodeKelasStatisDanKelasParsial.csproj", "{A3DBAEB5-5D89-4824-8BC7-90268405010C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{755AF4DF-653C-4AAE-8ACB-E79D8BA00F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{755AF4DF-653C-4AAE-8ACB-E79D8BA00F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{755AF4DF-653C-4AAE-8ACB-E79D8BA00F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3DBAEB5-5D89-4824-8BC7-90268405010C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DBAEB5-5D89-4824-8BC7-90268405010C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DBAEB5-5D89-4824-8BC7-90268405010C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DBAEB5-5D89-4824-8BC7-90268405010C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

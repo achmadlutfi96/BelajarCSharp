@@ -10,6 +10,9 @@ namespace Bab5Array
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hallo lutfi");
+
+            
         }
     }
 }
