@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab6KelasDanObjek", "Bab6Ke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab7MetodeKelasStatisDanKelasParsial", "Bab7MetodeKelasStatisDanKelasParsial\Bab7MetodeKelasStatisDanKelasParsial.csproj", "{A3DBAEB5-5D89-4824-8BC7-90268405010C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab8PewarisanDanPolimorfisme", "Bab8PewarisanDanPolimorfisme\Bab8PewarisanDanPolimorfisme.csproj", "{02B9B00B-0BDF-436E-BC48-D3E6E578F63D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{A3DBAEB5-5D89-4824-8BC7-90268405010C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3DBAEB5-5D89-4824-8BC7-90268405010C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3DBAEB5-5D89-4824-8BC7-90268405010C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B9B00B-0BDF-436E-BC48-D3E6E578F63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B9B00B-0BDF-436E-BC48-D3E6E578F63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B9B00B-0BDF-436E-BC48-D3E6E578F63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B9B00B-0BDF-436E-BC48-D3E6E578F63D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
