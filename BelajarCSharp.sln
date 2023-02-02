@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab10OperatorOverloading", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab11StrukturDanEnumerasi", "Bab11StrukturDanEnumerasi\Bab11StrukturDanEnumerasi.csproj", "{CBD9B25F-D9BB-40C0-ACF4-211FEC3B976B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab12String", "Bab12String\Bab12String.csproj", "{1477976E-5F19-4CDF-B009-32D72C7AFF48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab13DelegasiMetodeTanpaNamaDanEkspresiLambda", "Bab13DelegasiMetodeTanpaNamaDanEkspresiLambda\Bab13DelegasiMetodeTanpaNamaDanEkspresiLambda.csproj", "{D6B71BE5-6D1A-4B74-9E52-D8D857F251EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{CBD9B25F-D9BB-40C0-ACF4-211FEC3B976B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBD9B25F-D9BB-40C0-ACF4-211FEC3B976B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBD9B25F-D9BB-40C0-ACF4-211FEC3B976B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1477976E-5F19-4CDF-B009-32D72C7AFF48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1477976E-5F19-4CDF-B009-32D72C7AFF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1477976E-5F19-4CDF-B009-32D72C7AFF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1477976E-5F19-4CDF-B009-32D72C7AFF48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B71BE5-6D1A-4B74-9E52-D8D857F251EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B71BE5-6D1A-4B74-9E52-D8D857F251EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B71BE5-6D1A-4B74-9E52-D8D857F251EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B71BE5-6D1A-4B74-9E52-D8D857F251EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
