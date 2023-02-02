@@ -3,19 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab2VariabelDanTipeData", "Bab2VariabelDanTipeData\Bab2VariabelDanTipeData.csproj", "{746C5F3A-E2FD-4BDA-A35F-3C9B1B8AE3AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab02VariabelDanTipeData", "Bab2VariabelDanTipeData\Bab02VariabelDanTipeData.csproj", "{746C5F3A-E2FD-4BDA-A35F-3C9B1B8AE3AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab3Operator", "Bab3Operator\Bab3Operator.csproj", "{8D77722B-E8C6-4807-AE77-E7386BC2FF71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab03Operator", "Bab3Operator\Bab03Operator.csproj", "{8D77722B-E8C6-4807-AE77-E7386BC2FF71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab4StatemenKontrol", "Bab3StatemenKontrol\Bab4StatemenKontrol.csproj", "{E70B47B8-9149-468B-A00D-5A261AD48115}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab04StatemenKontrol", "Bab3StatemenKontrol\Bab04StatemenKontrol.csproj", "{E70B47B8-9149-468B-A00D-5A261AD48115}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab5Array", "Bab5Array\Bab5Array.csproj", "{A0504F0E-1821-4A0D-867E-DE0C0093FF72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab05Array", "Bab5Array\Bab05Array.csproj", "{A0504F0E-1821-4A0D-867E-DE0C0093FF72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab6KelasDanObjek", "Bab6KelasDanObjek\Bab6KelasDanObjek.csproj", "{755AF4DF-653C-4AAE-8ACB-E79D8BA00F2D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab06KelasDanObjek", "Bab6KelasDanObjek\Bab06KelasDanObjek.csproj", "{755AF4DF-653C-4AAE-8ACB-E79D8BA00F2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab7MetodeKelasStatisDanKelasParsial", "Bab7MetodeKelasStatisDanKelasParsial\Bab7MetodeKelasStatisDanKelasParsial.csproj", "{A3DBAEB5-5D89-4824-8BC7-90268405010C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab07MetodeKelasStatisDanKelasParsial", "Bab7MetodeKelasStatisDanKelasParsial\Bab07MetodeKelasStatisDanKelasParsial.csproj", "{A3DBAEB5-5D89-4824-8BC7-90268405010C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab8PewarisanDanPolimorfisme", "Bab8PewarisanDanPolimorfisme\Bab8PewarisanDanPolimorfisme.csproj", "{02B9B00B-0BDF-436E-BC48-D3E6E578F63D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab08PewarisanDanPolimorfisme", "Bab8PewarisanDanPolimorfisme\Bab08PewarisanDanPolimorfisme.csproj", "{02B9B00B-0BDF-436E-BC48-D3E6E578F63D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab09PropertiDanPengindeks", "Bab9PropertiDanPengindeks\Bab09PropertiDanPengindeks.csproj", "{8BD8DB32-9D5D-46D1-81DA-6649DB687B56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab10OperatorOverloading", "Bab10OperatorOverloading\Bab10OperatorOverloading.csproj", "{633C8AEB-A114-473C-9A24-036EDC9411BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bab11StrukturDanEnumerasi", "Bab11StrukturDanEnumerasi\Bab11StrukturDanEnumerasi.csproj", "{CBD9B25F-D9BB-40C0-ACF4-211FEC3B976B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{02B9B00B-0BDF-436E-BC48-D3E6E578F63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02B9B00B-0BDF-436E-BC48-D3E6E578F63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02B9B00B-0BDF-436E-BC48-D3E6E578F63D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD8DB32-9D5D-46D1-81DA-6649DB687B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD8DB32-9D5D-46D1-81DA-6649DB687B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD8DB32-9D5D-46D1-81DA-6649DB687B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD8DB32-9D5D-46D1-81DA-6649DB687B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633C8AEB-A114-473C-9A24-036EDC9411BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633C8AEB-A114-473C-9A24-036EDC9411BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633C8AEB-A114-473C-9A24-036EDC9411BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633C8AEB-A114-473C-9A24-036EDC9411BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD9B25F-D9BB-40C0-ACF4-211FEC3B976B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD9B25F-D9BB-40C0-ACF4-211FEC3B976B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD9B25F-D9BB-40C0-ACF4-211FEC3B976B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD9B25F-D9BB-40C0-ACF4-211FEC3B976B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
